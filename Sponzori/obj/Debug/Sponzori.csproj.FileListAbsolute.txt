@@ -1,0 +1,7 @@
+C:\Users\bajat\Desktop\Sponzori\Sponzori\bin\Debug\Sponzori.exe.config
+C:\Users\bajat\Desktop\Sponzori\Sponzori\bin\Debug\Sponzori.exe
+C:\Users\bajat\Desktop\Sponzori\Sponzori\bin\Debug\Sponzori.pdb
+C:\Users\bajat\Desktop\Sponzori\Sponzori\obj\Debug\Sponzori.csproj.AssemblyReference.cache
+C:\Users\bajat\Desktop\Sponzori\Sponzori\obj\Debug\Sponzori.csproj.CoreCompileInputs.cache
+C:\Users\bajat\Desktop\Sponzori\Sponzori\obj\Debug\Sponzori.exe
+C:\Users\bajat\Desktop\Sponzori\Sponzori\obj\Debug\Sponzori.pdb
